@@ -1,7 +1,7 @@
 
 # 根目录指南
 
-[访问我](http://localhost:3000/#/guide)
+* [Guide2](guide.md)
 
 # iOS <!-- {docsify-ignore} -->
 
