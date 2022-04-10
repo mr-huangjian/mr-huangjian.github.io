@@ -7,7 +7,10 @@
 * 技术
   * [站点](/tech/site.md)
   * [工具](/tech/tool.md)
+  * [软件](/tech/software.md)
+  * [扩展](/tech/extension.md)
   * [docsify](/tech/docsify.md)
 * 生活
+  * [任务](/life/task.md)
   * [音乐](/life/music.md)
   * [视频](/life/video.md)
