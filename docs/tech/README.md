@@ -13,4 +13,5 @@
 - [工具](/tech/tool.md)
 - [软件](/tech/software.md)
 - [扩展](/tech/extension.md)
+- [新苹果电脑](/tech/new-mac.md)
 - [docsify](/tech/docsify.md)

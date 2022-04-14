@@ -113,8 +113,14 @@ Time Machine （时间机器）是 Mac 的内置备份功能。您可以使用 T
 - Atom
 - [Dr. Unarchiver v1.3.0](https://www.macbl.com/app/utilities/dr.-unarchiver)
 - [Go2Shell](https://zipzapmac.com/Go2Shell)
+  - 官网 https://zipzapmac.com/Go2Shell
+  - 网盘 https://blog.csdn.net/shentian885/article/details/106327349/
+  - 升级 https://my.oschina.net/1715828751/blog/4785100
+  - /Applications/Go2Shell.app/Contents/MacOS
 - Google Chrome
 - [Paste](https://www.macfz.com/a/Paste.html)
+  Mac上“您没有权限来打开应用程序”（Big Sur）
+  https://www.cnblogs.com/somefuture/p/14085569.html
 - Sublime Text
 - Sync Folders Pro
 - Tencent Lemon
@@ -125,6 +131,12 @@ Time Machine （时间机器）是 Mac 的内置备份功能。您可以使用 T
 - QQ影音
 - iRelax
 - [唐师父](https://www.zjyunkai.com/macload?es=138&ct=1)
+- Xcode
+`xcode-select --install`
+
+pod setup 操作失败
+Setup completed
+解决办法：`git clone https://github.com/CocoaPods/Specs.git ~/.cocoapods/repos/trunk`
 
 **需破解的软件，必须存储到百度网盘、城通网盘等平台**
 
@@ -141,6 +153,8 @@ sudo xattr -d com.apple.quarantine /Applications/xxxx.app
     brew 换源
     https://www.jianshu.com/p/8a2ac505ff3e
     https://lug.ustc.edu.cn/wiki/mirrors/help/brew.git/
+    安装Homebrew失败
+    https://www.cnblogs.com/china-baizhuangli/p/12729494.html
 - tree
     `brew install tree`
     `tree -L 1` 查看文件夹下的第一层文件
@@ -156,6 +170,8 @@ sudo xattr -d com.apple.quarantine /Applications/xxxx.app
     `npm i docsify-cli -g`
 - gem
 - [cocoapods](https://www.yuque.com/u191966/apple/sqnwf8)
+  https://gems.ruby-china.com/
+  https://v.qq.com/x/page/d0352io5rcb.html
 
 [mac 修改主机名和计算机名 terminal终端、iterm前⾯的⽤户名字](https://liuchuo.blog.csdn.net/article/details/79967956)
 百度搜索：隐藏名字 Mac和终端中的⽤户名- macOS
