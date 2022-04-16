@@ -5,6 +5,7 @@
 
 基于人的创造力、好奇心、延展性
 
+- [Mob研究院](https://www.mob.com/mobdata/report)
 - [极客时间](https://time.geekbang.org/)
 - [小专栏](https://xiaozhuanlan.com/)
 - [掘金](https://juejin.cn/)

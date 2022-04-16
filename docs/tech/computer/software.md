@@ -58,6 +58,7 @@ sudo xattr -d com.apple.quarantine /Applications/xxx.app
     - [ ] Sip（取色）
     - [ ] Kaleidoscope 文件比对
 - 苹果工具
+    - [ ] [Charles](https://xclient.info/s/charles.html) [使用方法](https://blog.csdn.net/SMoothiemiss/article/details/78130684)
     - [ ] Hopper Disassembler v4 （反编译）
     - [ ] iPhone 配置实用工具
     - [ ] SF符号
@@ -78,7 +79,9 @@ Go2Shell<br>
 - [ ] 网易云音乐
 - [ ] QQ音乐
 - [ ] QQ影音
+- [ ] QuickTime Player
 - [ ] [Movist](https://xclient.info/s/movist.html)
+- [ ] [ScreenFlow](https://www.waitsun.com/screenflow-8-2.html)（屏幕录制软件）
 
 ## 图片处理
 
@@ -94,4 +97,10 @@ Go2Shell<br>
 - [x] Unsplash Wallpapers
 
 # VPN
-- [唐师父](www.zjyunkai.com/macload?es=138&ct=1)
+- [ ] [唐师父](www.zjyunkai.com/macload?es=138&ct=1)
+
+# 软件系列
+- [ ] Adobe
+- [ ] JetBrains
+- [ ] Office 2019
+- [ ] Omni
