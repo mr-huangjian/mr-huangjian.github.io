@@ -11,4 +11,4 @@
 
 <img src="https://res.wx.qq.com/wxdoc/dist/assets/img/demo.ef5c5bef.jpg" alt="小程序体验Demo" width="100" height="100" />
 
-西山碧螺春Beta, AppID: wx263d2a892ec62bfa
+西山碧螺春Beta, AppID: `wx263d2a892ec62bfa`
