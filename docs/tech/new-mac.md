@@ -133,6 +133,10 @@ Time Machine （时间机器）是 Mac 的内置备份功能。您可以使用 T
 - [唐师父](https://www.zjyunkai.com/macload?es=138&ct=1)
 - Xcode
 `xcode-select --install`
+- Kaleidoscope 文件比对
+- WebStorm
+- IntelliJ IDEA
+- DataGrip
 
 pod setup 操作失败
 Setup completed
@@ -176,6 +180,34 @@ sudo xattr -d com.apple.quarantine /Applications/xxxx.app
 [mac 修改主机名和计算机名 terminal终端、iterm前⾯的⽤户名字](https://liuchuo.blog.csdn.net/article/details/79967956)
 百度搜索：隐藏名字 Mac和终端中的⽤户名- macOS
 
+[mac终端～%切换～$](https://blog.csdn.net/qq_31954797/article/details/111601223)
+
+# Mac 自定义命令
+在 `~/.bash_profile` 文件下添加该行，若该文件不存在则需自己创建。<br />等号左边是命令名称，右边是具体命令或具体实现的文件路径。
+
+- 示例 1
+
+```
+alias npmpub="npm publish"
+```
+
+```shell
+$ npmpub
+```
+
+- 示例 2
+
+```
+alias npmpub="~/Documents/shell/npm-publish.sh"
+```
+
+```shell
+$ npmpub arg1 arg2 arg3
+```
+
+如果保存好后命令不生效，则执行命令 `source ~/.bash_profile` 后再尝试执行。
+
+
 # Atom
 
 Packages:
@@ -217,6 +249,8 @@ styles.less
 - [x] [GitHub](https://github.com/settings/tokens)
 - [x] GitLab
 
+GitHub/GitLab 的 Personal Access Tokens 需要保存下来，避免每次重新生成
+
 # 快捷键
 [快速打开系统偏好设置](http://news.sohu.com/a/501927306_120371013)
 1. 打开'系统偏好设置 > 键盘 > 快捷键'，找到 'App快捷键'，点击下方的 '+'
@@ -226,3 +260,8 @@ styles.less
 
 切换到桌面的快捷键：
 打开'系统偏好设置 > 键盘 > 快捷键 > 调度中心'，设置'显示桌面'的快捷键为 `⌘D`
+
+添加输入常用文本的快捷键，在非多行文本编辑器中输入有效
+1. 打开'系统偏好设置 > 键盘 > 文本'，比如：
+2. 输入码为`fox`
+3. 短语为`mr.huangjian@foxmail.com`
