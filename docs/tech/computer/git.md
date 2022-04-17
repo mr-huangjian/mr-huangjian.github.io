@@ -2,7 +2,9 @@
 
 ## 登录认证
 
-- [GitHub Personal access tokens](https://github.com/settings/tokens) `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`
+- [GitHub Personal access tokens](https://github.com/settings/tokens)
+    - `mr.huangjian@MacBookPro` `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`
+    - `mr.huangjian@MacBookPro.atom` `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`
 - [GitLab Personal access tokens]()
 
 Personal Access Tokens 是通用的，<u>**需要保存下来，避免每次重新生成**</u>！

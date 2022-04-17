@@ -27,6 +27,7 @@ sudo xattr -d com.apple.quarantine /Applications/xxx.app
 - [ ] [Timeless](https://xclient.info/s/timeless.html)（定时闹钟）
 - [ ] [Timerik](https://www.waitsun.com/timerik-1-3.html)（倒计时，下载404）
 - [ ] iRelax（番茄休息）
+- [x] [Timer Utility 5](https://www.macwk.com/soft/timer-utility-5)
 
 ## 社交通讯
 

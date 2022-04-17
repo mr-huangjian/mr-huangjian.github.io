@@ -1,5 +1,28 @@
 
-# 任务驱动仪表盘
+# 思维导图
+<!-- ```mindmap
+root
+  topic1
+    subtopic
+  topic2
+    subtopic
+``` -->
+
+<!-- ```mindmap
+任务
+  数据管理
+    subtopic
+  社会关系
+    subtopic
+  资产积累
+    subtopic
+  工作规划
+    subtopic
+  生活规划
+    subtopic
+  学习规划
+    subtopic
+``` -->
 
 ## 数据管理
 - [x] 搭建自己的[文档博客系统](https://mr-huangjian.github.io/)
@@ -43,11 +66,6 @@
     - Jenkins
 
 ## 学习规划
-
-1. 每周至少三天，进行考研学习，需要记笔记，
-2. 每周管综学习总时长不少于5个小时，每次学习时长不少于1小时
-3. 每天都要记两遍单词
-4. 将B站UP主讲的好的学习方法，归纳下并付诸实践
 
 - [ ] 考研规划
   - 使用百词斩每天记单词，养成习惯
