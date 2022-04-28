@@ -10,3 +10,5 @@
     - [网站](/tech/site/)
     - [电脑](/tech/computer/)
 - [生活](/life/)
+    - [病历本](/life/illness)
+- [关于]()
